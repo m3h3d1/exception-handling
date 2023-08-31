@@ -1,4 +1,4 @@
-package com.mehedi.entity;
+package com.mehedi.model;
 
 public class User {
     private String id;
